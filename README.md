@@ -1,4 +1,4 @@
-# xzvue
+# zsvue
 
 ## Project setup
 ```
