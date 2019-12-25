@@ -4,7 +4,7 @@ import router from './router'
 import store from './store'
 import axios from 'axios'
 
-axios.defaults.baseURL="http://localhost:5050";
+axios.defaults.baseURL="http:// 176.136.17.192:5050";
 
 Vue.prototype.axios=axios;
 
